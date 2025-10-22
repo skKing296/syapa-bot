@@ -1,1 +1,1 @@
-# Owner Mian Amir 
+# Owner syapa king
